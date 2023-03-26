@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 35.0, 84.0, 1468.0, 705.0 ],
+		"rect" : [ 41.0, 84.0, 1468.0, 705.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -69,8 +69,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 2,
 					"outlettype" : [ "jit_gl_texture", "" ],
-					"patching_rect" : [ 1105.399998307228088, 642.001818246841367, 50.0, 22.0 ],
-					"text" : "jit.gl.bfg"
+					"patching_rect" : [ 1105.399998307228088, 642.001818246841367, 319.0, 22.0 ],
+					"text" : "jit.gl.bfg @basis fractal.multi.hybrid @zoom 5. @colorize 1"
 				}
 
 			}
@@ -257,7 +257,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 267.157946407794952, 389.666669249534607, 93.407851099967957, 22.0 ],
-					"text" : "0.02"
+					"text" : "0."
 				}
 
 			}
@@ -555,8 +555,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 2,
 					"outlettype" : [ "jit_gl_texture", "" ],
-					"patching_rect" : [ 779.5, 780.552057858849821, 50.0, 22.0 ],
-					"text" : "jit.gl.bfg"
+					"patching_rect" : [ 779.5, 780.552057858849821, 313.0, 22.0 ],
+					"text" : "jit.gl.bfg @basis noise.voronoise @zoom 0.4 @colorize 1"
 				}
 
 			}
@@ -1628,8 +1628,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 2,
 					"outlettype" : [ "jit_gl_texture", "" ],
-					"patching_rect" : [ 994.333346128463745, 504.666669249534607, 50.0, 22.0 ],
-					"text" : "jit.gl.bfg"
+					"patching_rect" : [ 994.333346128463745, 504.666669249534607, 261.0, 22.0 ],
+					"text" : "jit.gl.bfg @basis fractal.multi.hybrid @colorize 1"
 				}
 
 			}
